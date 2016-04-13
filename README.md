@@ -45,4 +45,4 @@ limitations under the License.<br>
 
 # 翻译内容许可 #
 MIT 许可<br>
-引用请著名来自 https://github.com/Attect/Hello-Open-GL-ES-2-0-
+引用请著名来自 https://github.com/Attect/Hello-Open-GL-ES-2-0-Chinese
